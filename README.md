@@ -1,6 +1,6 @@
 # Teller scheduling automation
 
-[![codebeat badge](https://codebeat.co/badges/76ec6b44-1336-4034-9ec9-b9ea390a0985)](https://codebeat.co/projects/github-com-rr39943-teller-scheduling-automation-master) [![codecov](https://codecov.io/gh/rr39943/teller-scheduling-automation/branch/master/graph/badge.svg)](https://codecov.io/gh/rr39943/teller-scheduling-automation)
+[![codebeat badge](https://codebeat.co/badges/76ec6b44-1336-4034-9ec9-b9ea390a0985)](https://codebeat.co/projects/github-com-rr39943-teller-scheduling-automation-master) [![codecov](https://codecov.io/gh/rr39943/teller-scheduling-automation/branch/master/graph/badge.svg)](https://codecov.io/gh/rr39943/teller-scheduling-automation) [![Build Status](https://travis-ci.org/rr39943/teller-scheduling-automation.svg?branch=master)](https://travis-ci.org/rr39943/teller-scheduling-automation)
 
 
 
